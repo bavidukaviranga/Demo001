@@ -1,0 +1,20 @@
+
+h1{
+    background-color: blue; 
+    color: white; 
+    text-align: center;
+}
+
+#icet01{
+    background-color: brown;
+}
+#icet02{
+    background-color: red;
+}
+.group01{
+    background-color: antiquewhite;
+}
+.group02{
+    background-color: blueviolet;
+}
+
